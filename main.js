@@ -47,3 +47,17 @@ for (item of placesToTravel)  {
     console.log(item)
 }
 
+// Iteracion 4
+ 
+const alien = {
+    name: 'Wormuck',
+    race: 'Cucusumusu',
+    planet: 'Eden',
+    weight: '259kg'
+}
+ 
+for (item in alien) {
+    console.log(item)
+}
+
+
